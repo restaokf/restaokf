@@ -15,4 +15,4 @@ An GIS Enthusiast who learn about developing Web/Mobile application!
 
 ### 📈 My Github History
 [![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=restaokf&show_icons=true&theme=dark)](https://github.com/restaokf)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?usernamerestaokf&layout=compact&show_icons=true&theme=dark)](https://github.com/restaokf/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?usernamerestaokf&layout=compact&show_icons=true&theme=dark)
