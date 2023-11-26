@@ -1,7 +1,7 @@
 ### Hi there I'm Resta!👋
-- 🌱 I’m currently learning about GIS Technology and Web/Mobile Development. 
-- 💬 Ask me about 
-- 📫 How to reach me: ...
+An GIS Enthusiast who learn about developing Web/Mobile application!
+- 🌱 I’m currently learning about GIS Technology and Web/Mobile Development.  
+- 📫 How to reach me: restaoktafi@gmail.com
 - 😄 Pronouns: She/her
 ### 🚀 Some Tools I Have Used and Learned
 <p align="left">
